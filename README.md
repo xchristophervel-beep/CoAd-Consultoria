@@ -123,7 +123,7 @@
     <h2>Tu éxito, nuestra misión</h2>
     <button>Contáctanos</button>
 
-    <p>📞 123-456-789</p>
+    <p>📞 961-968-22-44</p>
     <p>✉️ coadconsultoria@gmail.com</p>
   </div>
 </section>
